@@ -1,5 +1,11 @@
+    
+    
     #Merge sort
+   
     #To sort a user input list of numbers
+    
+    #By DemonicAj 
+   
 def merge(arr,l,m,h):
     n1=m-l+1
     n2=h-m
